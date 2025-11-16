@@ -25,6 +25,11 @@ images.forEach(function(image) {
 	image.setAttribute("loading", "lazy");
 });
 
+const iframe = document.querySelectorAll(".iframe");
+iframe.forEach(function(iframe) {
+	iframe.setAttribute("loading", "lazy");
+});
+
 
 // --------------- footer credit ---------------
 const tahun = new Date().getFullYear();
