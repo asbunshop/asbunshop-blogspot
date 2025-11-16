@@ -323,7 +323,7 @@ footer{
   max-width: 100px;
   max-height: 100px;
   margin: auto;
-  filter: invert(1);
+  /*filter: invert(1);*/
 }
 .footer .container .box .medsos{
   display: flex;
