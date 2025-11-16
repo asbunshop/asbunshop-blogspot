@@ -175,6 +175,12 @@ button{
 .fs-24{
   font-size: 24px;
 }
+.iframe{
+  width: 100%;
+  max-width: 300px;
+  height: 100%;
+  max-height: 400px;
+}
 /*root responsive*/
 section,
 main,
