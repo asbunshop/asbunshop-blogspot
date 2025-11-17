@@ -237,7 +237,7 @@ footer{
   display: none;
   color: #fff;
   cursor: pointer;
-  padding: 16px;
+  padding: 16px 0;
 }
 /* header responsive */
 @media(max-width: 800px){
